@@ -1,0 +1,171 @@
+.google{
+    display: flex;
+    margin-left: 600px;
+    margin-top: 130px;
+    font-size: 100px;
+justify-content: none;
+
+}
+.G{
+color: blue;
+}
+.o
+{
+    color:red;
+}
+.oo{
+    color:yellow;
+}
+.g
+{
+    color: blue;
+}
+.l
+{
+    color:green;
+}
+.e
+{
+color:red;
+}
+.text
+{
+    width:540px;
+    height: 40px;
+    outline-style: none;
+   border:1px solid white;
+    border-radius: 20px;
+  box-shadow: 0px 0px 1px;
+    background-color: white;
+    outline-color: white;
+    font-display: center;
+    align-items: center;
+}
+.search{
+    margin-top: -30px;
+    margin-right: 500px;
+    outline-style: none;
+}
+.voice
+{
+    margin-top: -34px;
+    margin-left: 500px;
+    outline-style: none;
+    color: red;
+}
+.avatar{
+   
+    margin-top: 40px;
+    padding:30px;
+    width:100px;
+    
+}
+.avatar:hover
+{
+    background-color: lightgray;
+    height:100px;
+ 
+}
+.button{
+    color:lightgray;
+    outline: none;
+    border-style: none;
+   
+    
+}
+.button:hover
+{
+    background-color: lightgray;
+   
+}
+.add
+{
+    margin-right: 380px;
+}
+.name
+{
+    margin-right: 420px;
+}
+.text2{
+    outline-style: none;
+    outline: none;
+    border: 1px solid white;
+    background-color: lightgray;
+    width:460px;
+    margin-left: 26px;
+}
+.text2:focus{
+border-bottom-color: blue;
+}
+.av{
+    display:flex;
+    justify-content: center;
+}
+.avm{
+    padding:27px;
+    width:90px;
+   color:blue;
+   
+}
+.avm:hover
+{
+    background-color: lightgray;
+    height: 100px;
+    
+}
+.inp
+{
+    margin-left: 10px;
+   
+    background-color: white;
+    color:blue;
+    border-color: white;
+}
+.in{
+    margin-left: 330px;
+    outline: none;
+    background-color: white;
+    color:blue;
+    border-color: white;
+}
+.tar
+{
+    background-color: blue;
+    color:blue;
+}
+.app
+{
+    display:flex;
+margin-left: 1250px;
+}
+.gmail
+{
+    margin-right: 30px;
+  
+}
+.gmail>a{
+list-style: none;
+text-decoration: none;
+color:black;
+}
+.gmail>a:hover
+{
+    list-style: none;
+    text-decoration:underline;
+}
+.scroll
+{
+    
+    width:200px;
+    height:200px;
+    overflow: none;
+    overflow-y: scroll;
+}
+/*.gmail:hover .scroll{
+    width:200px;
+    height:200px;
+    overflow: none;
+    overflow-y: scroll;
+    display:block;
+   
+}*/
